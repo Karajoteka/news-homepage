@@ -39,6 +39,9 @@ header .logo img {
 header .icon-menu img {
   width: 40px;
 }
+header .navbar-desktop {
+  display: none;
+}
 
 .main-section {
   width: 100%;

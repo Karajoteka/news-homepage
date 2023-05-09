@@ -21,7 +21,11 @@ header {
 header .logo img {
   width: 50px;
 }
+header .icon-menu {
+  display: none;
+}
 header .navbar-desktop {
+  display: block;
   width: 450px;
 }
 header .navbar-desktop ul {

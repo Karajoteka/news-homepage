@@ -30,7 +30,11 @@ header {
       width: 50px;
     }
   }
+  .icon-menu {
+    display: none;
+  }
   .navbar-desktop {
+    display: block;
     width: 450px;
     ul {
       display: flex;
